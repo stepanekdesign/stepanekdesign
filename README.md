@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/stepanekdesign/stepanekdesign/blob/master/Github-profile-banner.gif" />
+<img align=left src="https://github.com/stepanekdesign/stepanekdesign/blob/master/Github-profile-banner.gif" alt="Coffee guy by Open Doodles @ opendoodles.com" />
 
 # Hi there 👋 I'm Peter.
 I've been designing stuff **for over 15 years** 🤘, creating marketing strategies for **over 10 years** 🤙 and I've just recently figured: **screw all of that**! I'd seriously like to possess some of the coding and programming superpowers. I've started with the obvious basics: HTML and CSS and then, not so long ago, been tinkering with JavaScript when I've somehow magically unearthed Ruby from the depths of the interwebs and oh boy! what a revelation! I was sold. Entirely.
