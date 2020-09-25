@@ -2,7 +2,7 @@
 I've been designing stuff for over 15 years 🤘, creating marketing strategies for over 10 years 🤙 and I've just recently figured: screw all of that! I'd seriously like to possess some of the coding and programming superpowers. I've started with the obvious basics: HTML and CSS and then, not so long ago, been tinkering with JavaScript when I've somehow magically unearthed Ruby from the depths of the interwebs and oh boy! what a revelation! I was sold. Entirely.
 
 ### About
-33 years old, father of two, husband to one, 15+ years in design, avid learner, masters degree in economics and blah blah personal praise and some more blahs... You get the idea. The prototype of an average newbie with some history 🤷‍♂️
+33 years old coffee lover, father of two, husband to one, 15+ years in design, avid learner, masters degree in economics and blah blah personal praise and some more blahs... You get the idea. The prototype of an average newbie with some history 🤷‍♂️
 
 [![Years Badge](https://badges.pufler.dev/years/stepanekdesign)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/stepanekdesign)](https://badges.pufler.dev)
