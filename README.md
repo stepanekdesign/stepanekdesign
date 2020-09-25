@@ -6,7 +6,7 @@ I've been designing stuff for over 15 years 🤘, creating marketing strategies 
 
 [![Years Badge](https://badges.pufler.dev/years/stepanekdesign)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/stepanekdesign)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/stepanekdesigna)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/stepanekdesign/stepanekdesign)](https://badges.pufler.dev)
 
 ## Updates
 * 🛠 I’m currently working on a Rails app called Soused.io with the help of hellorails.com.
