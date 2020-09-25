@@ -9,7 +9,7 @@ I've been designing stuff for over 15 years 🤘, creating marketing strategies 
 [![Updated Badge](https://badges.pufler.dev/updated/stepanekdesign/stepanekdesign)](https://badges.pufler.dev)
 
 ### Updates
-* 🛠 I’m currently working on a Rails app called Soused.io with the help of <a href="https://hellorails.com target=_blank>hellorails.com</a>.
+* 🛠 I’m currently working on a Rails app called Soused.io with the help of hellorails.com.
 * 👨‍💻 I’m currently learning Ruby, Rails, HTML, CSS.
 * 💻 For those interested in such matters I'm using the <a href="https://nova.app" target= _blank>Nova app</a> from Panic as my main text-editor.
 
