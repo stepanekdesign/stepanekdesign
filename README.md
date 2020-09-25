@@ -13,7 +13,7 @@ I've been designing stuff **for over 15 years** 🤘, creating marketing strateg
 ### Updates
 * 🛠 I’m currently working on a Rails app called Soused.io with the help of hellorails.com.
 * 👨‍💻 I’m currently learning Ruby, Rails, HTML, CSS.
-* 💻 For those interested in such matters I'm using the <a href="https://nova.app" target=_blank>Nova app</a> from Panic as my main text-editor.
+* 💻 For those interested in such matters I'm using the <a href="https://nova.app" target="_blank">Nova app</a> from Panic as my main text-editor.
 
 ### You can find me at
-<a href="https://twitter.com/stepanekp" target=_blank>Twitter</a>, <a href="" target=_blank>Codepen</a>, <a href="https://dev.to/stepanekdesign" target=_blank>Dev.to</a> and <a href="https://www.indiehackers.com/stepanekdesign" target=_blank>Indie Hackers</a>
+<a href="https://twitter.com/stepanekp" target="_blank">Twitter</a>, <a href="" target="_blank">Codepen</a>, <a href="https://dev.to/stepanekdesign" target="_blank">Dev.to</a> and <a href="https://www.indiehackers.com/stepanekdesign" target="_blank">Indie Hackers</a>
